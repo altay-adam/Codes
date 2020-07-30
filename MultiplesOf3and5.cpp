@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 void SumOfTheNumbers(int new_number) {
@@ -14,6 +13,7 @@ void SumOfTheNumbers(int new_number) {
     }
     cout << "Sum of the numbers=" << sum;
 }
+
 int main()
 {
     int number = 1000;
