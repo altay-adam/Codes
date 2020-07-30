@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void toplam(int new_number) {
+void sum(int new_number) {
 	int sum = 0;
 	for (int i = 0; i < new_number; i++) {
 		if (i % 3 == 0) {
@@ -17,7 +17,7 @@ void toplam(int new_number) {
 int main() {
 
 	int number = 1000;
-	toplam(number);
+	sum(number);
 
 	return 0;
 }
