@@ -16,7 +16,7 @@ int main() {
 		}
 		if (counter2 == 0) { // If counter2 equals '0', counter increases 1. This means: i is prime number. At the bottom line as you can see counter increases 1 because of that.
 			counter++;
-			if (counter == 10001) { //As the question, if counter reaches 10001 print 10001st prime number on screen and first for loop breaks.
+			if (counter == 10001) { //According to the question, if counter reaches 10001 print 10001st prime number on screen and first for loop breaks.
 				cout << i; break;
 			}
 		}
