@@ -3,7 +3,7 @@ using namespace std;
 int main() {
 	long long Val = 1;
 	long long max = 1;
-	int lowbound = 0, highbound = 13;
+	int lowbound = 0, highbound = 13; //The reason of the equalities is the question wants that the number has 13-digits. We are gonna loop 0-13 digits.
 	int arr[1000];
 	char number[] = "73167176531330624919225119674426574742355349194934"
 		"96983520312774506326239578318016984801869478851843"
