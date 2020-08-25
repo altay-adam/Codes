@@ -13,7 +13,7 @@ namespace CSharp1
 			int divisorCounter = 0;
 			int Value = 0;
 			int number = 1;
-			int temp;  //It's temporary variable. I'm gonna equal it the number temporarily.
+			int temp;  //It's temporary variable. I'm gonna equal it to the number temporarily.
 			while (true)
 			{
 				Value += number;
