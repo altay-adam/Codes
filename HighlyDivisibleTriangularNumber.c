@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>    //I CHANGED THE CODE OF THIS PROBLEM BECAUSE PREVIOUS CODE WAS USELESS.
 int main() {
 	int Value = 0;
 	int tourCounter = 1;
